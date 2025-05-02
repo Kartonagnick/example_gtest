@@ -1,0 +1,11 @@
+
+# --- Kartonagnick/example_gtest                                  [project.root]
+# [2025-12-02][12:00:00] 001 Kartonagnick PRE
+# [2025-12-02][11:19:56] registered on github
+# [2025-11-29][13:42:02] birthday of the project
+
+#-------------------------------------------------------------------------------
+
+INCLUDE_CONFIGURATIONS = all
+EXCLUDE_CONFIGURATIONS = mingw494:32:all:static
+VERSION = ver-0.0.2
