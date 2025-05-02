@@ -10,7 +10,7 @@
 [ORIGIN]: https://github.com/Kart-cpp-tools/tools/blob/master/docs/other/problem.md
 
 <a name="main"></a>
-[![P]][H] problem v0.0.1
+[![S]][H] problem v0.0.1
 ========================
 В этом файле описываются различные известные проблемы,  
 которые по каким либо причинам не были исправлены.  

@@ -5,7 +5,7 @@
 [S]: icons/success.png
 [B]: icons/bug.png
 
-[![P]][H] **История изменений**  
+[![S]][H] **История изменений**  
 --------------------------------------------------------------------------------
 
 02 декабря 2025, 11:19:56. Зарегистрирован на [github]  
@@ -22,7 +22,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.0.1 (rep)**
+[![S]][H] **v0.0.1 (rep)**
 --------------------------------------------------------------------------------
 [![V]][VE001] [![2025-12-02 12:00]][VE001]  
 
@@ -35,17 +35,17 @@
 | 2025-12-02 | 11:30 | [#1-rep-first] | BEGIN  |  
 
 1. add: `docs`  
-   - add: `logo.png`      (001) PRE  
-   - add: `changelog.md`  (001) PRE  
-   - add: `chrono.md`     (001) PRE  
-   - add: `history.md`    (001) PRE  
-   - add: `docs.md`       (001) PRE  
-   - add: `icons` ...     (002) PRE  
+   - add: `logo.png`       001  
+   - add: `changelog.md`   001  
+   - add: `chrono.md`      001  
+   - add: `history.md`     001  
+   - add: `docs.md`        001  
+   - add: `icons` ...      002  
 2. add: `docs/other`  
    - add: `calendar.md`  
-   - add: `problem.md`    (001) PRE  
-3. add: `.gitignore`      (001) PRE  
-4. add: `project.root`    (001) PRE  
+   - add: `problem.md`     001  
+3. add: `.gitignore`       001  
+4. add: `project.root`     001  
 5. fix: `README.md`  
 6. fix: `LICENSE`  
 
