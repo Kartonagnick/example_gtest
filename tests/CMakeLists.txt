@@ -1,5 +1,5 @@
 # --- Kartonagnick/example_gtest                         [tests][CMakeLists.txt]
-# [2025-12-04][15:00:00] 001 Kartonagnick PRE
+# [2025-12-04][15:00:00] 001 Kartonagnick    
 ################################################################################
 
 cmake_minimum_required(VERSION 3.10)
