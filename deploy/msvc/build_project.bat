@@ -1,14 +1,14 @@
 @echo off & call :checkParent || exit /b
 
 rem --- Kartonagnick/example_gtest             [deploy][msvc][build_project.bat]
-rem [2024-12-03][19:10:00] 001 Kartonagnick PRE
+rem [2024-12-03][19:10:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 
 :main
   setlocal
   call :setDepth
-  call :echo0 [MAKE] run... v0.0.1 PRE
+  call :echo0 [MAKE] run... v0.0.1    
 
   call :echo1 --1-- prepare  
   call :prepare || goto :failed
