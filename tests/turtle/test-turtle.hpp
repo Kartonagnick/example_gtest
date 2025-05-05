@@ -1,5 +1,5 @@
 // --- Kartonagnick/example_gtest                       [tests][test-turtle.hpp]
-// [2025-12-05][20:20:00] 001 Kartonagnick PRE
+// [2025-12-05][20:20:00] 001 Kartonagnick    
 //==============================================================================
 //==============================================================================
 // https://github.com/google/googletest/blob/main/docs/reference/matchers.md#wildcard

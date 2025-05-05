@@ -1,5 +1,5 @@
 # --- Kartonagnick/example_gtest                         [tests][CMakeLists.txt]
-# [2025-12-05][20:20:00] 002 Kartonagnick PRE
+# [2025-12-05][20:20:00] 002 Kartonagnick    
 # [2025-12-04][15:00:00] 001 Kartonagnick
 ################################################################################
 

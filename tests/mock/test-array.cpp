@@ -1,5 +1,5 @@
 // --- Kartonagnick/example_gtest                        [tests][test-array.cpp]
-// [2025-12-05][20:20:00] 001 Kartonagnick PRE
+// [2025-12-05][20:20:00] 001 Kartonagnick    
 //==============================================================================
 //==============================================================================
 // https://gitlab.inria.fr/Phylophile/Treerecs/blob/3caf718fdf0f4352b5773daf5898e3708a847484/tests/gtest/googlemock/docs/CookBook.md

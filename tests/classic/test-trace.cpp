@@ -1,5 +1,5 @@
 // --- Kartonagnick/example_gtest                        [tests][test-trace.cpp]
-// [2025-12-05][20:20:00] 001 Kartonagnick PRE
+// [2025-12-05][20:20:00] 001 Kartonagnick    
 //==============================================================================
 //==============================================================================
 // https://google.github.io/googletest/reference/assertions.html
