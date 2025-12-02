@@ -1,0 +1,19 @@
+// --- Kartonagnick/example_gtest                             [tests][tests.ver]
+// [2025-12-04][15:00:00] 001 Kartonagnick PRE
+// [2025-12-02][11:19:56] registered on github
+// [2025-11-29][13:42:02] birthday of the project
+//==============================================================================
+//==============================================================================
+
+#pragma once
+#ifndef dTESTS_VERSION_USED_ 
+#define dTESTS_VERSION_USED_ 1
+
+#define dTESTS_MAJOR 0
+#define dTESTS_MINOR 0
+#define dTESTS_PATCH 1
+
+//==============================================================================
+//==============================================================================
+#endif // dTESTS_VERSION_USED_
+
