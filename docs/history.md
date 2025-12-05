@@ -21,6 +21,52 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.0.3 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE002] [![2025-12-05 20:20]][VE001]  
+
+[2025-12-05 20:20]: https://img.shields.io/static/v1?label=2025-12-05&message=20:20&color=yellowgreen
+[VE003]: changelog.md#-v003-dev
+
+|    дата    | время |      ветка      | статус |  
+|:----------:|:-----:|:---------------:|:------:|  
+| 2025-12-05 | 20:10 | [#3-dev-sample] | DONE   |  
+| 2025-12-04 | 21:30 | [#3-dev-sample] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`                  (003) PRE  
+   - upd: `changelog.md`              (003) PRE  
+   - upd: `history.md`                (003) PRE  
+   - upd: `chrono.md`                 (003) PRE  
+   - upd: `docs.md`                   (003) PRE  
+2. add: `docs/docs`  
+   - add: `fixture.md`                (001) PRE  
+   - add: `classic.md`                (001) PRE  
+   - add: `mock.md`                   (001) PRE  
+3. upd: `tests`  
+   - upd: `tests.ver`                 (002) PRE  
+   - upd: `CMakeLists.txt`            (002) PRE  
+4. add: `tests/turtle`  
+   - add: `test-turtle.hpp`           (001) PRE  
+   - add: `test-turtle-sticky.cpp`    (001) PRE  
+   - add: `test-turtle-sequences.cpp` (001) PRE  
+   - add: `test-turtle-general.cpp`   (001) PRE  
+   - add: `test-turtle-example.cpp`   (001) PRE  
+5. add: `tests/mock`  
+   - add: `test-matcher.cpp`          (001) PRE  
+   - add: `test-fake1.cpp`            (001) PRE  
+   - add: `test-const-ref.cpp`        (001) PRE  
+   - add: `test-const-ptr.cpp`        (001) PRE  
+   - add: `test-array.cpp`            (001) PRE  
+6. add: `tests/classic`  
+   - add: `test-trace.cpp`            (001) PRE  
+   - add: `test-pred.cpp`             (001) PRE  
+7. upd: `project.root`                (003) PRE  
+8. fix: `README.md`  
+ 
+[#3-dev-sample]: tasks/2025-12-04-0003-dev-sample.md
+<div/>
+
 
 [![S]][H] **v0.0.2 (dev)**
 --------------------------------------------------------------------------------
@@ -31,8 +77,8 @@
 
 |    дата    | время |     ветка      | статус |  
 |:----------:|:-----:|:--------------:|:------:|  
-| 2025-12-02 | 14:50 | [#2-dev-frame] | DONE   |  
-| 2025-12-02 | 12:20 | [#2-dev-frame] | BEGIN  |  
+| 2025-12-04 | 14:50 | [#2-dev-frame] | DONE   |  
+| 2025-12-04 | 12:20 | [#2-dev-frame] | BEGIN  |  
 
 1. upd: `docs`  
    - upd: `logo.png`           002  
