@@ -1,4 +1,4 @@
-[![logo](../../logo.png)](../docs.md "documentation") 
+[![logo](../../logo.png)](../stash.md "documentation") 
 
 [H]: ../stash.md           "родитель"
 [P]: ../../icons/progress.png  "в процессе..."
