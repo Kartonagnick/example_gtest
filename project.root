@@ -1,6 +1,7 @@
 
 # --- Kartonagnick/example_gtest                                  [project.root]
-# [2025-12-05][20:20:00] 003 Kartonagnick    
+# [2025-12-07][22:10:00] 004 Kartonagnick PRE
+# [2025-12-05][20:20:00] 003 Kartonagnick
 # [2025-12-04][15:00:00] 002 Kartonagnick
 # [2025-12-02][12:00:00] 001 Kartonagnick
 # [2025-12-02][11:19:56] registered on github
@@ -10,4 +11,4 @@
 
 INCLUDE_CONFIGURATIONS = all
 EXCLUDE_CONFIGURATIONS = mingw494:32:all:static
-VERSION = ver-0.0.3
+VERSION = ver-0.0.4
