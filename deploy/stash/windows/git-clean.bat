@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b 1
 
 rem --- Kartonagnick/example_gtest                 [deploy/stash][git-clean.bat]
-rem [2025-12-07][22:10:00] 003 Kartonagnick PRE
+rem [2025-12-07][22:10:00] 003 Kartonagnick    
 rem   --- D:\Dropbox\stashes\00-direct                           [git-clean.bat]
 rem   [2026-06-26][14:23:24] 003 Kartonagnick
 rem   [2025-01-16][02:44:36] 002 Kartonagnick
@@ -16,7 +16,7 @@ rem ============================================================================
   setlocal
   call :setDepth
   set "title=GIT-CLEAN"
-  call :echo0 [%title%] run... 0.0.3 PRE
+  call :echo0 [%title%] run... 0.0.3
 
 ::set "eDEBUG=ON"
 

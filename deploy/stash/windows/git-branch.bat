@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b 1
 
 rem --- Kartonagnick/example_gtest                [deploy/stash][git-branch.bat]
-rem [2025-12-07][22:10:00] 001 Kartonagnick PRE
+rem [2025-12-07][22:10:00] 001 Kartonagnick    
 rem ============================================================================
 rem ============================================================================
 rem switch to all remote branches
@@ -10,7 +10,7 @@ rem switch to all remote branches
   setlocal
   call :setDepth
   set "title=GIT-BRANCH"
-  call :echo0 [%title%] run... 0.0.1 PRE
+  call :echo0 [%title%] run... 0.0.1
 
 ::set eDEBUG=ON
 

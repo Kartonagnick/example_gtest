@@ -14,7 +14,7 @@
 [replace]:     stash/replace.md
 [7zrun]:       stash/7zrun.md
    
-[![P]][H] stash v0.0.1
+[![S]][H] stash v0.0.1
 ======================
 Каталог скриптов:  
   - [calcrebase]  

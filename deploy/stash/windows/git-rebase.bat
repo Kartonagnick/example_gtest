@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b 1
 
 rem --- Kartonagnick/example_gtest                [deploy/stash][git-rebase.bat]
-rem [2025-12-07][22:10:00] 004 Kartonagnick PRE
+rem [2025-12-07][22:10:00] 004 Kartonagnick    
 rem   --- local/stash                                           [git-rebase.bat]
 rem   [2023-05-22][19:00:00] 001 Kartonagnick
 rem ============================================================================
@@ -11,7 +11,7 @@ rem ============================================================================
   setlocal
   call :setDepth
   set "title=GIT-REBASE"
-  call :view [%title%] run... 0.0.4 PRE    
+  call :view [%title%] run... 0.0.4
 
 ::set "eDEBUG=ON"
 ::set "eTRACE=ON"

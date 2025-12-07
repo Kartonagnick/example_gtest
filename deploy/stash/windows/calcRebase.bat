@@ -3,7 +3,7 @@
 '===============================================================================
 
 '--- Kartonagnick/example_gtest                   [deploy/stash][calcRebase.bat]
-'[2025-12-07][22:10:00] 001 Kartonagnick PRE
+'[2025-12-07][22:10:00] 001 Kartonagnick    
 '  --- local/hybrids                                            [calcRebase.bat]
 '  [2024-08-22][15:07:25] 001 Kartonagnick
 

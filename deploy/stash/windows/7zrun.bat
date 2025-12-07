@@ -17,7 +17,7 @@
 '===============================================================================
 
 '--- Kartonagnick/example_gtest                        [deploy/stash][7zrun.bat]
-'[2025-12-07][22:10:00] 001 Kartonagnick PRE
+'[2025-12-07][22:10:00] 001 Kartonagnick    
 '  --- local/hybrids                                         [script][7zrun.bat]
 '  [2024-12-22][08:50:00] 001 Kartonagnick
 

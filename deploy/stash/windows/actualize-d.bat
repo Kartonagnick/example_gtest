@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b 1
 
 rem --- Kartonagnick/example_gtest               [deploy/stash][actualize-d.bat]
-rem [2025-12-07][22:10:00] 002 Kartonagnick PRE
+rem [2025-12-07][22:10:00] 002 Kartonagnick    
 rem   --- local/stash                                          [actualize-d.bat]
 rem   [2023-02-11][10:00:00] 002 Kartonagnick
 rem     --- old redaction                                      [actualize-d.bat]

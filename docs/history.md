@@ -21,7 +21,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.4 (dev)**
+[![S]][H] **v0.0.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE004] [![2025-12-07 22:10]][VE004]  
 
@@ -34,22 +34,22 @@
 | 2025-12-06 | 14:00 | [#4-dev-stash] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `changelog.md`      (004) PRE  
-   - upd: `history.md`        (004) PRE  
-   - upd: `chrono.md`         (004) PRE  
-   - upd: `docs.md`           (004) PRE  
+   - upd: `changelog.md`       004  
+   - upd: `history.md`         004  
+   - upd: `chrono.md`          004  
+   - upd: `docs.md`            004  
 2. add: `docs/docs`  
-   - add: `stash.md`          (001) PRE  
+   - add: `stash.md`           001  
 3. add: `docs/docs/stash`  
-   - add: `calcrebase.md`     (001) PRE  
-   - add: `git-commits.md`    (001) PRE  
-   - add: `git-branch.md`     (001) PRE  
-   - add: `git-clean.md`      (001) PRE  
-   - add: `git-date.md`       (001) PRE  
-   - add: `replace.md`        (001) PRE  
-   - add: `7zrun.md`          (001) PRE  
-   - add: `actualize.md`      (001) PRE  
-   - add: `docs.view.md`      (001) PRE  
+   - add: `calcrebase.md`      001  
+   - add: `git-commits.md`     001  
+   - add: `git-branch.md`      001  
+   - add: `git-clean.md`       001  
+   - add: `git-date.md`        001  
+   - add: `replace.md`         001  
+   - add: `7zrun.md`           001  
+   - add: `actualize.md`       001  
+   - add: `docs.view.md`       001  
 4. add: `docs/docs/stash/edge`  
    - add: `mv-settings-2.png`  
    - add: `mv-settings-1.png`  
@@ -59,23 +59,23 @@
    - add: `mv-compiler-1.png`  
    - add: `mv-access.png`  
 5. add: `deploy/stash/windows/cmd`  
-   - add: `readme.md`         (001) PRE  
+   - add: `readme.md`          001  
    - add: `garbage.7z`  
 6. add: `deploy/stash/windows/vbs`  
-   - add: `offset.vbs`        (001) PRE  
+   - add: `offset.vbs`         001  
 7. add: `deploy/stash/windows`  
-   - add: `git-branch.bat`    (001) PRE  
-   - add: `git-rebase.bat`    (004) PRE  
-   - add: `git-date.bat`      (004) PRE  
-   - add: `git-commits.bat`   (006) PRE  
-   - add: `git-clean.bat`     (003) PRE  
-   - add: `docs.view.bat`     (003) PRE  
-   - add: `calcRebase.bat`    (001) PRE  
-   - add: `actualize.bat`     (005) PRE  
-   - add: `actualize-d.bat`   (002) PRE  
-   - add: `[vbs]-replace.bat` (003) PRE  
-   - add: `7zrun.bat`         (001) PRE  
-8. upd: `project.root`        (004) PRE  
+   - add: `git-branch.bat`     001  
+   - add: `git-rebase.bat`     004  
+   - add: `git-date.bat`       004  
+   - add: `git-commits.bat`    006  
+   - add: `git-clean.bat`      003  
+   - add: `docs.view.bat`      003  
+   - add: `calcRebase.bat`     001  
+   - add: `actualize.bat`      005  
+   - add: `actualize-d.bat`    002  
+   - add: `[vbs]-replace.bat`  003  
+   - add: `7zrun.bat`          001  
+8. upd: `project.root`         004  
 
 [#4-dev-stash]: tasks/2025-12-06-0004-dev-stash.md
 <div/>

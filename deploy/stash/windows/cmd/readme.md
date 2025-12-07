@@ -1,7 +1,7 @@
 
 ```
 --- Kartonagnick/example_gtest                     [deploy/stash][cmd/readme.md]
-[2025-12-07][22:10:00] 001 Kartonagnick PRE
+[2025-12-07][22:10:00] 001 Kartonagnick    
 ```
 
 console utilities serving the WorkSpace:  

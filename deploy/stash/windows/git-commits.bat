@@ -17,7 +17,7 @@
 '===============================================================================
 
 '--- Kartonagnick/example_gtest                  [deploy/stash][git-commits.bat]
-'[2025-12-07][22:10:00] 006 Kartonagnick PRE
+'[2025-12-07][22:10:00] 006 Kartonagnick    
 '  --- local/stash                                             [git-commits.bat]
 '  [2025-07-29][02:30:19] 006 Kartonagnick
 '  [2023-05-24][15:48:15] 005 Kartonagnick

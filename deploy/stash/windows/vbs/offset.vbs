@@ -2,7 +2,7 @@
 '===============================================================================
 
 '--- Kartonagnick/example_gtest                   [deploy/stash][vbs/offset.vbs]
-'[2025-12-07][22:10:00] 001 Kartonagnick PRE
+'[2025-12-07][22:10:00] 001 Kartonagnick    
 '  --- old redaction                                                [offset.vbs]
 '  --- data-stamp was reconstructed
 '  [2021-06-30][00:00:00] 001 Kartonagnick

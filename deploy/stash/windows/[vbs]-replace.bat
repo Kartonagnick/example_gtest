@@ -14,7 +14,7 @@
 '===============================================================================
 
 '--- Kartonagnick/example_gtest                [deploy/stash][[vbs]-replace.bat]
-'[2025-12-07][22:10:00] 003 Kartonagnick PRE
+'[2025-12-07][22:10:00] 003 Kartonagnick    
 '  --- D:\Dropbox\stashes\00-direct                          [[vbs]-replace.bat]
 '  [2024-01-18][16:57:59] 002 Kartonagnick
 '  [2023-03-07][13:10:00] 001 Kartonagnick

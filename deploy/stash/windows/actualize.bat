@@ -6,7 +6,7 @@
 '===============================================================================
 
 '--- Kartonagnick/example_gtest                    [deploy/stash][actualize.bat]
-'[2025-12-07][22:10:00] 005 Kartonagnick PRE
+'[2025-12-07][22:10:00] 005 Kartonagnick    
 '  --- D:\Dropbox\stashes\00-direct                              [actualize.bat]
 '  [2025-06-26][14:18:44] 005 Kartonagnick
 '    --- local/stash                                             [actualize.bat]

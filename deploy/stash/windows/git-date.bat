@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b 1
 
 rem --- Kartonagnick/example_gtest                  [deploy/stash][git-date.bat]
-rem [2025-12-07][22:10:00] 004 Kartonagnick PRE
+rem [2025-12-07][22:10:00] 004 Kartonagnick    
 rem   --- D:\Dropbox\stashes\00-direct                            [git-date.bat]
 rem   [2025-04-16][15:09:07] 004 Kartonagnick
 rem   [2025-01-10][02:40:45] 003 Kartonagnick
@@ -17,7 +17,7 @@ rem ============================================================================
   setlocal
   call :setDepth
   chcp 65001 >nul
-  call :echo0 [GIT-DATE] run... v0.0.4 PRE    
+  call :echo0 [GIT-DATE] run... v0.0.4
 
 ::set "eDEBUG=ON"
 ::set "eMODE_SILENT=ON"

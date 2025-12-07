@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- Kartonagnick/example_gtest                 [deploy/stash][docs.view.bat]
-rem [2025-12-07][22:10:00] 003 Kartonagnick PRE
+rem [2025-12-07][22:10:00] 003 Kartonagnick    
 rem   --- D:\Dropbox\stashes\00-direct                           [docs.view.bat]
 rem   [2025-06-26][14:10:57] 003 Kartonagnick
 rem     --- F:\flowers                                           [docs.view.bat]
@@ -14,7 +14,7 @@ rem ============================================================================
   setlocal
 ::chcp 65001 >nul
   call :setDepth
-  set eMAIN_VERSION=0.0.3 PRE
+  set eMAIN_VERSION=0.0.3
   call :echo0 [DOCS.VIEW] run... v%eMAIN_VERSION%
   call :browser.init || goto :failed
   call :browser.run  || goto :failed
