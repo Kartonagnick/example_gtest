@@ -21,9 +21,69 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.0.4 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE004] [![2025-12-07 22:10]][VE004]  
+
+[2025-12-07 22:10]: https://img.shields.io/static/v1?label=2025-12-07&message=22:10&color=yellowgreen
+[VE004]: changelog.md#-v003-dev
+
+|    дата    | время |     ветка      | статус |  
+|:----------:|:-----:|:--------------:|:------:|  
+| 2025-12-07 | 22:00 | [#4-dev-stash] | DONE   |  
+| 2025-12-06 | 14:00 | [#4-dev-stash] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `changelog.md`      (004) PRE  
+   - upd: `history.md`        (004) PRE  
+   - upd: `chrono.md`         (004) PRE  
+   - upd: `docs.md`           (004) PRE  
+2. add: `docs/docs`  
+   - add: `stash.md`          (001) PRE  
+3. add: `docs/docs/stash`  
+   - add: `calcrebase.md`     (001) PRE  
+   - add: `git-commits.md`    (001) PRE  
+   - add: `git-branch.md`     (001) PRE  
+   - add: `git-clean.md`      (001) PRE  
+   - add: `git-date.md`       (001) PRE  
+   - add: `replace.md`        (001) PRE  
+   - add: `7zrun.md`          (001) PRE  
+   - add: `actualize.md`      (001) PRE  
+   - add: `docs.view.md`      (001) PRE  
+4. add: `docs/docs/stash/edge`  
+   - add: `mv-settings-2.png`  
+   - add: `mv-settings-1.png`  
+   - add: `mv-github-dark.png`  
+   - add: `mv-content.png`  
+   - add: `mv-compiler-2.png`  
+   - add: `mv-compiler-1.png`  
+   - add: `mv-access.png`  
+5. add: `deploy/stash/windows/cmd`  
+   - add: `readme.md`         (001) PRE  
+   - add: `garbage.7z`  
+6. add: `deploy/stash/windows/vbs`  
+   - add: `offset.vbs`        (001) PRE  
+7. add: `deploy/stash/windows`  
+   - add: `git-branch.bat`    (001) PRE  
+   - add: `git-rebase.bat`    (004) PRE  
+   - add: `git-date.bat`      (004) PRE  
+   - add: `git-commits.bat`   (006) PRE  
+   - add: `git-clean.bat`     (003) PRE  
+   - add: `docs.view.bat`     (003) PRE  
+   - add: `calcRebase.bat`    (001) PRE  
+   - add: `actualize.bat`     (005) PRE  
+   - add: `actualize-d.bat`   (002) PRE  
+   - add: `[vbs]-replace.bat` (003) PRE  
+   - add: `7zrun.bat`         (001) PRE  
+8. upd: `project.root`        (004) PRE  
+
+[#4-dev-stash]: tasks/2025-12-06-0004-dev-stash.md
+<div/>
+
+
 [![S]][H] **v0.0.3 (dev)**
 --------------------------------------------------------------------------------
-[![V]][VE002] [![2025-12-05 20:20]][VE001]  
+[![V]][VE003] [![2025-12-05 20:20]][VE003]  
 
 [2025-12-05 20:20]: https://img.shields.io/static/v1?label=2025-12-05&message=20:20&color=yellowgreen
 [VE003]: changelog.md#-v003-dev
@@ -70,7 +130,7 @@
 
 [![S]][H] **v0.0.2 (dev)**
 --------------------------------------------------------------------------------
-[![V]][VE002] [![2025-12-04 15:00]][VE001]  
+[![V]][VE002] [![2025-12-04 15:00]][VE002]  
 
 [2025-12-04 15:00]: https://img.shields.io/static/v1?label=2025-12-04&message=15:00&color=yellowgreen
 [VE002]: changelog.md#-v002-dev
