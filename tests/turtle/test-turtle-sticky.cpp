@@ -184,7 +184,7 @@ TEST(Sticky, 007)
     ASSERT_EQ(turtle.GetX(), 10);
 }
 
-TEST(Sticky, 007)
+TEST(Sticky, 008)
 {
     // данный тест аналогичен предыдущему,
     // но не использует RetiresOnSaturation
